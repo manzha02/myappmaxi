@@ -89,6 +89,6 @@ export default function App() {
       color:"white"
     },
   
-        })
+    {)
       
   
